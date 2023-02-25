@@ -18,16 +18,13 @@ require (
 	github.com/gogf/gf v1.13.3
 	github.com/jinzhu/gorm v1.9.16
 	github.com/jlaffaye/ftp v0.0.0-20200812143550-39e3779af0db
-	github.com/jteeuwen/go-bindata v3.0.7+incompatible // indirect
 	github.com/lib/pq v1.1.1
-	github.com/lisijie/cron v0.0.0-20151225081149-1c5ac61b9f22
 	github.com/malfunkt/iprange v0.9.0
 	github.com/mattn/go-colorable v0.1.7 // indirect
-	github.com/netxfly/mysql v1.0.3
 	github.com/robfig/cron/v3 v3.0.0
 	github.com/spf13/viper v1.7.1
 	github.com/stacktitan/smb v0.0.0-20190531122847-da9a425dceb8
 	github.com/unknwon/com v1.0.1
-	golang.org/x/crypto v0.0.0-20191205180655-e7c4368fe9dd
+	golang.org/x/crypto v0.1.0
 	gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22
 )
